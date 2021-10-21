@@ -7,6 +7,21 @@
 
 /* COMMONS */
 body {
-    
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.first {
+    background-color: red;
+    height: 100vh;
+}
+
+.second {
+    background-color: green;
+    height: 100vh;
+}
+
+.third {
+    background-color: yellow;
+    height: 100vh;
 }
 
