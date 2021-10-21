@@ -10,21 +10,25 @@ body {
     font-family: 'Rubik Mono One', sans-serif;
 }
 
-
 .first {
     background-color: red;
     height: 100vh;
+    line-height: 50vh;
 }
 
 .second {
     background-color: green;
     height: 100vh;
+    line-height: 50vh;
 }
 
 .third {
     background-color: yellow;
     height: 100vh;
+    line-height: 50vh;
 }
+
+
 
 
 
